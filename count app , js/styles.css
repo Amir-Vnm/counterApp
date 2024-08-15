@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-image: url(pexels-photo-2422497.jpg);
+    background-repeat:no-repeat ;
+    background-position: center;
+    color:aqua ;
+    font-weight: bolder;
+    text-shadow: 0 0 5px black;
+    padding-top: 5% ;
+}
+button {
+    margin-top:  18%;
+    
+    width: 100px;
+    height: 38px;
+    font-weight: bolder;
+    border-radius:  5px ;
+}
+#increment-btn {
+    background-color: aqua;
+}
+
+#save-btn {
+    background-color: darkgray;
+}
